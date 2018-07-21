@@ -2,6 +2,7 @@ body{
   background-color: black;
   color: white;
   text-align: center;
+  font-family: verdana, sans-serif;
 }
 h1{
   font-size: 50px;
@@ -9,4 +10,13 @@ h1{
 .green{
   color: aquamarine;
   font-size: 16px;
+}
+h2{
+  font-size: 42px;
+  font-weight: 300;
+}
+.change{
+
+  color: gray;
+  font-size: 21px;
 }
